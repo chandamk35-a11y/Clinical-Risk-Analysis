@@ -3,7 +3,7 @@
 Practicing NumPy fundamentals — summary statistics, boolean masking,
 combining conditions — on a synthetic diabetes/hypertension patient dataset (1,000 rows).
 
-**Note:** Data is synthetic, generated for practice. Not real patient data.
+**Note:** Data is synthetic, its for practice. Not real patient data.
 
 ## What's in the notebook
 
