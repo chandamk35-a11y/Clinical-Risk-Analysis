@@ -30,6 +30,11 @@ combining conditions — on a synthetic diabetes/hypertension patient dataset (1
 | Aged 65+ | 18.3% (183 patients) |
 | Diabetes + hypertension | 10.6% (106 patients) |
 
+
+
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/c316bf76-c4c8-488a-8677-a65bd83903ed" />
+
+
 ## Tools
 
 Python, NumPy, pandas
