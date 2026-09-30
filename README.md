@@ -1,4 +1,4 @@
-# Clinical Risk Analysis (NumPy Practice)
+# Clinical Risk Analysis (NumPy & Pandas Practice)
 
 Practicing NumPy fundamentals — summary statistics, boolean masking,
 combining conditions — on a synthetic diabetes/hypertension patient dataset (1,000 rows).
